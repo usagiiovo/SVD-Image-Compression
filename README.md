@@ -41,7 +41,7 @@ The image compression was achieved through the following systematic modeling pro
 5.  **Evaluation**: Compare the visual results across different $k$ values and calculate the mathematical error to identify the optimal balance.
 
 ## 4. Experimental Results & Analysis
-*Tested on a $1000 \times 1000$ grayscale image.*
+*Tested on a 1000 x 1000 grayscale image.*
 
 ![Result Comparison](result.png)
 
